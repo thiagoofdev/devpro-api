@@ -1,6 +1,8 @@
 # devpro-api
 Curso DevPro - api github
 
+[![Build Status](https://app.travis-ci.com/thiagoofdev/devpro-api.svg?branch=main)](https://app.travis-ci.com/thiagoofdev/devpro-api)
+
 Para instalar:
 
 ```
