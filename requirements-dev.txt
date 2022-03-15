@@ -11,4 +11,8 @@ attrs==19.2.0
 iniconfig
 pluggy==0.12
 
+# Coverage
+coverage==6.3.2
+pytest-cov==3.0.0
+
 -r requirements.txt
